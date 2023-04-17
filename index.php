@@ -1,6 +1,6 @@
 <?
 
-sleep(rand(3, 10));
+sleep(rand(1, 5));
 
 echo "Hello, Malpe. Time is: " . time();
 
